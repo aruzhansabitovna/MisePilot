@@ -26,3 +26,6 @@ This is a FRONT-END DEMO: data is saved separately in each browser's localStorag
 
 ## User testing
 Requirement: 10 kitchen employees and 1 storage employee, with participant feedback; report/video and class/fair presentation remain to be completed by the group.
+
+
+Fix: HTML inline action escaping, storage filters, recipe detail modal, clickable dashboard statistics.
